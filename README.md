@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-LangChain-ef476f?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-LangChain_&_N8N-ef476f?style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Infra-Docker_&_AWS-118ab2?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fullstack-Next.js_&_React_Native-073b4c?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend-Go_&_Node.js-06d6a0?style=for-the-badge&logo=go&logoColor=white"/>
