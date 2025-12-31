@@ -38,18 +38,8 @@
 
 ![Metrics](https://github.com/Caiqu3wav/Caiqu3wav/blob/main/github-metrics.svg)
 
-
 ### 📡 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caique%20dos%20Santos-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-dos-santos-a69425246)
-
----
-
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiqu3wav&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 > “Code the future. Automate the present. Design the unknown.”
 
