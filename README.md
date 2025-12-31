@@ -36,7 +36,8 @@
   <img src="https://img.shields.io/badge/Backend-Go_&_Node.js-06d6a0?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
----
+![Metrics](https://github.com/Caiqu3wav/Caiqu3wav/blob/main/github-metrics.svg)
+
 
 ### 📡 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caique%20dos%20Santos-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-dos-santos-a69425246)
