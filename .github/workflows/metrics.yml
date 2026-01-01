@@ -1,4 +1,4 @@
-name: Metrics
+csname: Metrics
 on:
   schedule:
     - cron: "0 6 * * *" # atualiza 1x por dia
@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics2 }}
 
           # Base
           base: repositories
